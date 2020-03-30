@@ -1,0 +1,8 @@
+xml 에서는 < 를 사용할 수 없다.
+사용하려면 이렇게 사용해야 한다 --->> <![CDATA[  여기에 부등기호 삽입    ]]>
+
+xml 에서 TO_DATE 함수는 TO_DATE(char,서식) 원하는 서식으로 바꾸는 것이다.
+
+eclipse에서 Team > Synchronize with Repository 를 통해 기존 코드 (vcs에 올린것) 와 비교할 수 있다.
+
+spring 과정 화면만들고, xml쓰고, 컨트롤러 만들고, 서비스 만들고, 서비스 imp 만들고, dao 만들기
